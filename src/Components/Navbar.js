@@ -1,16 +1,12 @@
 import React from 'react'
-import logo from '../logo.svg'
+import logo from '../Images/logo.svg'
 
 export default function Navbar() {
     return (
         <header>
             <nav className="App-nav">
-                <img src={logo} className="App-logo" alt="logo" />
-                <ul className='nav-options'>
-                    <li>Pricing</li>
-                    <li>About</li>
-                    <li>Contact</li>
-                </ul>
+                <img src={logo} className="nav-logo" alt="logo" />
+                <h3 className="nav-title">ReactFacts</h3>
             </nav>
         </header>
     )

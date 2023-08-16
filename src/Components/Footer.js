@@ -3,7 +3,7 @@ import React from 'react'
 export default function Footer() {
     return (
         <footer className='App-footer'>
-            <small>© 2023 MAK (All Rights Reserved) ®.</small>
+            <small>ReactFacts 2023 (All Rights Reserved) ®</small>
         </footer>
     )
 }
