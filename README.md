@@ -4,7 +4,7 @@ This repository contains the code for building a very simple, easy & static Reac
 
 ## Preview
 
-![image]()
+![image](https://github.com/Mubassim-Khan/React-FunFacts/blob/master/src/Images/Preview.png)
 
 ## Features
 
